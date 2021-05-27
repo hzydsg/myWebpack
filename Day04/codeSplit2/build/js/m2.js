@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{2:function(n,o,c){"use strict";c.r(o),c.d(o,"fn2",(function(){return t}));let t=function(){console.log("我是函数fn2")}}}]);

@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("我是函数fn1"),console.log("我是函数fn2")})();
