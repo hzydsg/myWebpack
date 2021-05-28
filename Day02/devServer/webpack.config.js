@@ -44,7 +44,7 @@ module.exports={
     如果加上open这个字段且它的值为true时,可以实现全自动,
     不加是半自动。
 
-    使用webpack-dev-server命令
+    使用npx webpack-dev-server命令
     它只会在内存中编译打包,不会有任何输出,也就是不会生成build目录。
     */
 }
